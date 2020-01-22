@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jdoe@gmail.com",
+      "age": 21
+    },
+    {
+      "id": "3",
+      "name": "Mike Perry",
+      "email": "mpblack@gmail.com",
+      "age": 27
+    },
+    {
+      "id": "4",
+      "name": "Ean  Edvards",
+      "email": "eean@yahoo.com",
+      "age": 22
+    },
+    {
+      "id": "5",
+      "name": "Sally Wazowzki",
+      "email": "swaz@gmail.com",
+      "age": 55
+    },
+    {
+      "id": "6",
+      "name": "Olga Dragovitch",
+      "email": "olga@hotmail.com",
+      "age": 32
+    },
+    {
+      "name": "Donald Cerrone",
+      "email": "cerrone@yehaw.io",
+      "age": 42,
+      "id": "wQniahI"
+    }
+  ]
+}
